@@ -6,13 +6,13 @@ Identification by a step signal of a proportional control loop, which is defined
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/5c39a821-f10e-4565-8bdd-bc8224785aa5)
 
-where u is the input (test) signal; x – the resulting signal (recall) of the investigated link; a0 and b0 are parameters of the studied link.
+where u is the input (test) signal; x – the resulting signal (recall) of the investigated loop; a0 and b0 are parameters of the studied loop.
 
 Modeling the process of identification of a proportional loop:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/9be1befc-30a4-4f38-b649-af05ab363146)
 
-Identification of a first-order linear link with a step signal, which is defined in the form of an ordinary differential equation of the general form:
+Identification of a first-order linear loop with a step signal, which is defined in the form of an ordinary differential equation of the general form:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/8c18e090-a296-4cb0-a4ea-f38be4f4f66c)
 
@@ -21,7 +21,7 @@ Identification of a first-order linear link with a step signal, which is defined
 
 Task 2
 
-Modeling the process of identification of a linear link of the first order by a step signal:
+Modeling the process of identification of a linear loop of the first order by a step signal:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/efbc7307-7d30-4e09-8cf9-eb6300fc9297)
 
@@ -34,9 +34,9 @@ Identification of a second-order linear integrating circuit by a step signal:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/c64c4c0b-2975-40db-9170-02f7e32b3177)
 
-where β0 are the parameters of the studied link.
+where β0 are the parameters of the studied loop.
 
-Modeling the process of identification of a second-order linear integration link by a step signal:
+Modeling the process of identification of a second-order linear integration loop by a step signal:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/8d1cc4f8-1977-4fe9-9543-cf158bab78f2)
 
@@ -45,16 +45,16 @@ Modeling the process of identification of a second-order linear integration link
 
 Task 4
 
-Identification by a step signal of a linear link, which is determined by a second-order differential equation, which also contains the first derivative:
+Identification by a step signal of a linear loop, which is determined by a second-order differential equation, which also contains the first derivative:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/40f8d6c6-3acd-4c71-a8e8-81b43a697c4c)
 
-where α1 and β0 are parameters of the studied link.
+where α1 and β0 are parameters of the studied loop.
 
 
 Task 5
 
-Modeling the process of identification by a step signal of a linear link, which is determined by a second-order differential equation, which also contains the first derivative:
+Modeling the process of identification by a step signal of a linear loop, which is determined by a second-order differential equation, which also contains the first derivative:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/e8acbf79-1fd5-4e76-8d62-bcc770e924be)
 
@@ -63,13 +63,13 @@ Modeling the process of identification by a step signal of a linear link, which 
 
 Task 6
 
-Identification by a step signal of a linear link, which is determined by a differential equation of the second order, which does not contain the first derivative:
+Identification by a step signal of a linear loop, which is determined by a differential equation of the second order, which does not contain the first derivative:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/c2dca5e2-b3ed-4cfb-a133-615576c59b5e)
 
-where α0 and β0 are the parameters of the studied link.
+where α0 and β0 are the parameters of the studied loop.
 
-Modeling the process of identification by a step signal of a linear link, which is determined by a second-order differential equation that does not contain the first derivative:
+Modeling the process of identification by a step signal of a linear loop, which is determined by a second-order differential equation that does not contain the first derivative:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/9bfa33ef-5520-42ed-ab72-3630fbbf4055)
 
@@ -78,11 +78,11 @@ Modeling the process of identification by a step signal of a linear link, which 
 
 Task 7
 
-Determination of the desired parameter of the proportional link:
+Determination of the desired parameter of the proportional loop:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/6efcd765-33e3-415e-9ac7-a47713a792d9)
 
-Modeling the process of identification of a proportional link with a sinusoidal signal:
+Modeling the process of identification of a proportional loop with a sinusoidal signal:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/c914b3d2-96e5-461f-88d0-ad7468eda758)
 
@@ -91,13 +91,13 @@ Modeling the process of identification of a proportional link with a sinusoidal 
 
 Task 8
 
-Identification by a sinusoidal signal of a linear integration link, which is determined by a differential equation of the first order of the following form:
+Identification by a sinusoidal signal of a linear integration loop, which is determined by a differential equation of the first order of the following form:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/0a8b3ba3-d782-41ad-b9e9-81c4ed721f47)
 
-where β0 are the parameters of the studied link.
+where β0 are the parameters of the studied loop.
 
-Modeling the process of identification by a sinusoidal signal of an integrating linear link:
+Modeling the process of identification by a sinusoidal signal of an integrating linear loop:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/58965949-2212-4814-a2a8-7237e502df5d)
 
@@ -106,11 +106,11 @@ Modeling the process of identification by a sinusoidal signal of an integrating 
 
 Task 9
 
-Identification of a sinusoidal signal of a linear link of the first order. The identification of such a link is reduced to the determination of parameters α0 and β0, which, in the absence of noticeable disturbances of the investigated signals, can be done using the analytical solution of the differential equation:
+Identification of a sinusoidal signal of a linear loop of the first order. The identification of such a loop is reduced to the determination of parameters α0 and β0, which, in the absence of noticeable disturbances of the investigated signals, can be done using the analytical solution of the differential equation:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/3b9ceb95-6c75-4ae4-a2d4-0336283bcce9)
 
-Modeling the process of identification of a linear link of the first order by a sinusoidal signal:
+Modeling the process of identification of a linear loop of the first order by a sinusoidal signal:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/ce38ef05-6a1d-4940-a171-3239f1bf18b7)
 
@@ -119,11 +119,11 @@ Modeling the process of identification of a linear link of the first order by a 
 
 Task 10
 
-Identification by a sinusoidal signal of a linear link of the first order, which is defined in the form, using the amplitude-frequency characteristic. To do this, we write down the transfer function of the link:
+Identification by a sinusoidal signal of a linear loop of the first order, which is defined in the form, using the amplitude-frequency characteristic. To do this, we write down the transfer function of the loop:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/f0f3646c-d178-4039-a25f-8bd55bb265ad)
 
-Modeling the process of identification of a first-order linear link using the amplitude-frequency characteristic:
+Modeling the process of identification of a first-order linear loop using the amplitude-frequency characteristic:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/94a3d68f-6f2f-4e72-b276-7aef4836b90b)
 
@@ -132,7 +132,7 @@ Modeling the process of identification of a first-order linear link using the am
 
 Task 11
 
-Modeling the identification process using frequency response for a linear link, which is determined by a second-order differential equation that does not contain the first derivative:
+Modeling the identification process using frequency response for a linear loop, which is determined by a second-order differential equation that does not contain the first derivative:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/5fb5364c-7a74-44f9-b252-38ca07042cd5)
 
@@ -141,11 +141,11 @@ Modeling the identification process using frequency response for a linear link, 
 
 Task 11
 
-Identification of a second-order linear link whose differential equation does not contain the first derivative. To do this, we write the transfer function and obtain the amplitude-frequency characteristic of the link, where (p^2)=α0:
+Identification of a second-order linear loop whose differential equation does not contain the first derivative. To do this, we write the transfer function and obtain the amplitude-frequency characteristic of the loop, where (p^2)=α0:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/151be312-cbc9-42f8-93cb-c51459c5e691)
 
-Modeling the identification process using frequency response for a linear link as defined by a second-order differential equation of the general form:
+Modeling the identification process using frequency response for a linear loop as defined by a second-order differential equation of the general form:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/e133b622-eca4-4666-a6f0-ea13c374d3ee)
 
@@ -158,9 +158,9 @@ Identification of the linear term of the second order, the differential equation
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/c6a9f416-6956-44bc-82ab-51aed627fb24)
 
-where α1, α0 and β0 are the parameters of the studied link.
+where α1, α0 and β0 are the parameters of the studied loop.
 
-Modeling the identification process using the amplitude-frequency characteristic for a linear link, which is determined by a second-order differential equation of the general form:
+Modeling the identification process using the amplitude-frequency characteristic for a linear loop, which is determined by a second-order differential equation of the general form:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/d0da46a7-55c1-47c1-9864-91eb59d6c2b9)
 
@@ -169,13 +169,13 @@ Modeling the identification process using the amplitude-frequency characteristic
 
 Task 13:
 
-Modeling of the process of identification by a pulse signal of a second-order linear link, the mathematical model of which is presented in the form:
+Modeling of the process of identification by a pulse signal of a second-order linear loop, the mathematical model of which is presented in the form:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/44787835-c204-4f05-a338-67f7fdde4501)
 
-where a0, a1, a2 and b0=1 are link parameters.
+where a0, a1, a2 and b0=1 are loop parameters.
 
-Modeling the process of identification of a second-order linear link using a pulse signal:
+Modeling the process of identification of a second-order linear loop using a pulse signal:
 
 ![image](https://github.com/IlAnP7L24/matlab-PARAMETRIC-MODELING-OF-LINEAR-OBJECTS-OF-AUTOMATION-USING-DIFFERENT-SIGNALS/assets/158156829/68f3deb4-aba2-455d-84c2-86352aa8275c)
 
